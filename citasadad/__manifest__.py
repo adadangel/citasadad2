@@ -9,7 +9,7 @@
         En este modulo podrá crear sus citas.
     """,
 
-    'author': "Ángel Daniel Alcaide Díaz",
+    'author': "",
     'website': "http://www.yourcompany.com",
 
     'category': 'Uncategorized',
